@@ -4,7 +4,8 @@ candidates: 120, 145, 112
 
 1.using the Gui. its a pretty simple interface, run main methode in main class to open GUI. you click the food you 
 have and get given bevrage options to that type of food.
-to clear the search click top left corner with left click and press clear.
+to clear the search, click top left corner (file button) with left click and press clear data.
+The data takes some time to display. It takes about 30 - 40 seconds. 
 
 2.our master CSV file is called viner(wines) it contains more then wine it contains all
 bevrages. bit misleading.
