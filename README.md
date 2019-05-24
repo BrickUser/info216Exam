@@ -2,7 +2,7 @@
 Exam for school project
 candidates: 120, 145, 112
 
-1.needs jenna apache to run
+1.needs jenna apache to run, and java FX.
 
 2.an adtional opencsv.jar is included  this is needed to run and to parse.
 
