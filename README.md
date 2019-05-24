@@ -19,3 +19,5 @@ bevrages. bit misleading.
 
 6.also some extra smart qurreis are added in a text file, they are not used by the Interface, but they are smart queries
 for the system.
+
+in total 5 files including the readme.
