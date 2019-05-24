@@ -2,9 +2,9 @@
 Exam for school project
 candidates: 120, 145, 112
 
-1.needs jenna apache to run, and java FX.
+1.needs jenna apache to run, and java FX. Java FX, is included in the downloads, as jar_files.zip.
 
-2.an adtional opencsv.jar is included  this is needed to run and to parse.
+2.an adtional opencsv.jar is included this is needed to run and for it to parse.
 
 3.using the Gui. its a pretty simple interface, run main methode in main class to open GUI. you click the food you 
 have and get given bevrage options to that type of food.
