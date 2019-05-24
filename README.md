@@ -9,7 +9,7 @@ to clear the search click top left corner with left click and press clear.
 2.our master CSV file is called viner(wines) it contains more then wine it contains all
 bevrages. bit misleading.
 
-3.an adtional SCV.jar is included  this is needed to run to parse. NEEDS to be included for the system to work.
+3.an adtional CSV.jar is included  this is needed to run to parse. NEEDS to be included for the system to work.
 
 4.code descrition is included as comments, in the code it self.
 
